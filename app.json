@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "hrtw",
+  "description": "hrtw",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/kfjhway62/hrtw",
+  "repository": "https://github.com/kfjhway62/hrtw",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
